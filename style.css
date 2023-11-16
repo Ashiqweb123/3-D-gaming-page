@@ -6,6 +6,7 @@
 .nav-color a
 {
     color:white;
+    text-decoration: none;
 }
 
 .nav-color
@@ -15,3 +16,10 @@
 .button-background
 {background: rgba(255, 255, 255, 0.11);}
 
+.loop-background
+{
+    background: #1C140F;
+}
+.section-inner-bg{
+    background-color: #B000DC1C;
+}

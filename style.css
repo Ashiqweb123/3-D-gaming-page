@@ -27,3 +27,6 @@
 {
     background-color: #0F0901;
 }
+.card{
+display: flex;
+}
